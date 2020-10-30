@@ -1,4 +1,4 @@
-##It's flappy bird game
+## It's flappy bird game
 
 ### INSTALLTION
 
