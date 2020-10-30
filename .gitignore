@@ -1,0 +1,9 @@
+/venv
+/__pycache__
+/.idea
+/.DS_Store
+.DS_Store
+maket.psd
+data.txt
+test.py
+other.py
